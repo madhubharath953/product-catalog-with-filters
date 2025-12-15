@@ -1,13 +1,10 @@
 {
-  "homepage": "https://madhubharath953.github.io/catalog_with_filters",
   "name": "catalog",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "prview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
@@ -47,3 +44,4 @@
     "url": "https://github.com/siva-codez/catalog_with_filters/issues"
   }
 }
+
